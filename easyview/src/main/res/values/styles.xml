@@ -1,0 +1,26 @@
+<resources>
+    <declare-styleable name="BorderTextView">
+        <attr name="underLine" format="boolean" />
+        <attr name="borderRadius" format="float" />
+        <attr name="borderWidth" format="float" />
+        <attr name="borderColor" format="color" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="fonttype" format="string" />
+    </declare-styleable>
+    <declare-styleable name="BorderButton">
+        <attr name="underLineButton" format="boolean" />
+        <attr name="borderRadiusButton" format="float" />
+        <attr name="borderWidthButton" format="float" />
+        <attr name="borderColorButton" format="color" />
+        <attr name="backgroundColorButton" format="color" />
+        <attr name="fonttypeButton" format="string" />
+    </declare-styleable>
+    <declare-styleable name="BorderEditText">
+        <attr name="underLineEdit" format="boolean" />
+        <attr name="borderRadiusEdit" format="float" />
+        <attr name="borderWidthEdit" format="float" />
+        <attr name="borderColorEdit" format="color" />
+        <attr name="backgroundColorEdit" format="color" />
+        <attr name="fonttypeEdit" format="string" />
+    </declare-styleable>
+</resources>
