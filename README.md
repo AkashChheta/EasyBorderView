@@ -1,5 +1,5 @@
 # Easy
-  Easyaccessible is easy and effortless use a Custom widgets ad like (Border EditText,Border Button,BorderTextView)
+  Easyaccessible is easy and effortless use a Custom widgets add like (Border EditText,Border Button,BorderTextView)
 
 <img src="screenshot/screnshot.png" width="200" height="400"/>
 
